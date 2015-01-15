@@ -1,0 +1,38 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+
+.bar-one {
+  height: 100%;
+  width: 33.3%;
+  float: left;
+  background: #4A90E2;
+}
+
+.bar-two {
+  height: 100%;
+  width: 33.3%;
+  float: left;
+  background: #50E3C2;
+}
+
+.bar-three {
+  height: 100%;
+  width: 33.3%;
+  float: left;
+}
+
+.sub-bar-three {
+  height: 70%;
+  width: 100%;
+  background: #B8E986;
+}
+
+.image-class {
+  height: 30%;
+  width: 100%;
+  content:url("http://cdn.osxdaily.com/wp-content/uploads/2012/06/retro-flying-apple.jpg");
+}
