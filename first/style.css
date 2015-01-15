@@ -1,0 +1,37 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.header {
+  width: 100%;
+  height: 20%;
+  background: #444444;
+}
+
+.grey-side-bar {
+  width: 20%;
+  height: 80%;
+  background: #D8D8D8;
+  float: left;
+}
+
+.middle-column {
+  width: 60%;
+  height: 80%;
+  background: white;
+  float: left;
+}
+
+.top-white {
+  width: 100%;
+  height: 90%;
+  background: #EFEFEF;
+}
+
+.black-bar {
+  width: 100%;
+  height: 10%;
+  background: #222222;
+}
